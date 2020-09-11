@@ -73,6 +73,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### Deploy to GitHub pages 
 
-```bash 
+```cmd 
 npm run deploy
 ```
