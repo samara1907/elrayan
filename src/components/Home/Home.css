@@ -1,0 +1,55 @@
+.grid-container {
+  display: inline-grid;
+}
+
+.grid-container > div {
+  background: #FF512F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F09819, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F09819, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+#more {display: none;}
+
+.container1{
+  height: 40vh;
+  
+}
+
+.logo{
+  background: #FF512F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F09819, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F09819, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+img {
+  
+  border-radius: 40%;
+}
+
+.bg{
+  font-size: 20px;
+}
+.bg:hover{
+  color: white;
+}
+
+button{
+  color: black;
+  border: 2px solid;
+  padding: 10px 24px;
+  border-radius: 35%;
+  font-size: 15px;
+  font-weight: bold;
+  transition-duration: 0.4s;
+  
+}
+button:hover{
+
+  animation: flip 1s;
+}
+nav{
+  float: right;
+}
