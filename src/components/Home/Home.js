@@ -39,7 +39,7 @@ const Home = () =>{
 		<div className="grid-container ">
       <div>
         <nav>
-          <a href="tel:01119113978"><img src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="60px" height="60px"/></a>
+          <a href="tel:01119113978"><img className="animate__animated animate__tada animate__slower animate__infinite" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="60px" height="60px"/></a>
     
           <a href="store"><img src={require('./imgs/shop.png')} title="متجرنا" alt="shop" width="60px" height="60px"/></a>
         </nav>
