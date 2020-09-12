@@ -45,7 +45,7 @@ const Home = () =>{
         </nav>
       </div>
 <div ><div className="container1"> 
-             <img className="logo animate__animated animate__flip animate__slower animate__infinite" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
+             <img className="logo " src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
         </div></div>
 		  <div > 
         <div className="bg animate__animated animate__backInRight animate__delay-1s">
