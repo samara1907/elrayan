@@ -18,15 +18,11 @@ const ParticlesOptions = {
 function App() {
   return (
     <div className="App">
-    <AddToHomescreen onAddToHomescreenClick={handleAddToHomescreenClick()} />
+    <AddToHomescreen/>
     <Particles className='particles' params={ParticlesOptions} />
     <Home/>
     </div>
   );
 }
-const handleAddToHomescreenClick = () => {
-  alert(`
-    1. Open Share menu
-    2. Tap on "Add to Home Screen" button`);
-};
+
 export default App;
