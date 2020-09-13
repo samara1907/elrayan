@@ -40,5 +40,6 @@ button:hover{
   animation: flip 1s;
 }
 nav{
-  float: left;
+  padding: 10px;
+  float: right;
 }

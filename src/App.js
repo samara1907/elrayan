@@ -7,7 +7,7 @@ const ParticlesOptions = {
   particles: {
   "number":{
     "value":50,
-     "density": {"enable":false,"value_area":110}
+     "density": {"enable":false,"value_area":90}
         }  
     }
   }
