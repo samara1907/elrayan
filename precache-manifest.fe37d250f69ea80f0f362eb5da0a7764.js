@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "748ab103c3347e4dd47d88a6fa82299b",
+    "revision": "19e1e5175173b18266c894b4f6388998",
     "url": "/elrayan/index.html"
   },
   {
-    "revision": "8ba1a82b4cc0c3215c8f",
+    "revision": "c79ab3ace666c6fbe188",
     "url": "/elrayan/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "2dba2c91b6c655888aae",
-    "url": "/elrayan/static/css/main.6b0b60d7.chunk.css"
+    "revision": "06167ac043f186a44301",
+    "url": "/elrayan/static/css/main.b32b64e3.chunk.css"
   },
   {
-    "revision": "8ba1a82b4cc0c3215c8f",
-    "url": "/elrayan/static/js/2.79cd8b2a.chunk.js"
+    "revision": "c79ab3ace666c6fbe188",
+    "url": "/elrayan/static/js/2.7b59b957.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/elrayan/static/js/2.79cd8b2a.chunk.js.LICENSE.txt"
+    "url": "/elrayan/static/js/2.7b59b957.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dba2c91b6c655888aae",
-    "url": "/elrayan/static/js/main.e395b821.chunk.js"
+    "revision": "06167ac043f186a44301",
+    "url": "/elrayan/static/js/main.37b6e20f.chunk.js"
   },
   {
     "revision": "f8ea26e11bd08fedfcc1",
@@ -46,5 +46,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b648c0fbe614f5838749650cf89b742",
     "url": "/elrayan/static/media/shop.8b648c0f.png"
+  },
+  {
+    "revision": "c228a51f52d262f60b78c320bb8fb782",
+    "url": "/elrayan/static/media/twitter.c228a51f.png"
+  },
+  {
+    "revision": "7611f02494be1e121a6f6a391d3eafdc",
+    "url": "/elrayan/static/media/whatsapp.7611f024.png"
   }
 ]);
