@@ -47,6 +47,7 @@ const Home = () =>{
         <div className="grid-container ">
         <div ><div > 
              <img src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
+             <p className="des"> شركة الريان لصيانة الدش و تركيب و صيانة كاميرات المراقبة تقدم الشركة خدماتها منذ عام 2010 من مقرها الوحيد بمدينة الشروقز بالستعانة بافضل الفنين في مدال صيانة الاساتلايت </p>
         </div></div>
 		  <div className="item2"> 
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">
@@ -86,7 +87,21 @@ const Home = () =>{
 </span></p>
 <button onClick={myFunction1} id="myBtn1">Read more</button>
            </div></div>
-		 
+		 <div className="footer">
+       <div className="container">
+         <div className="social">
+         <a href="https://www.facebook.com/"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="55px" height="55px" /></a>
+         </div>
+         <div className="social">
+         <a href="https://wa.me/11119113978"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
+         </div>
+         <div className="social">
+         <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="55px" height="55px" /></a>
+         </div>
+
+       </div>
+       <h6>Developed by <a href="https://www.facebook.com/profile.php?id=100028847222002">Mahmoud Osman</a></h6>
+     </div>
 		</div>
 
           </div>
