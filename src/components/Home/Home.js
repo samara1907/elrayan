@@ -36,19 +36,20 @@ function myFunction1() {
 
 const Home = () =>{
 	return(
-		<div className="grid-container ">
-      <div>
-        <nav>
+          <div>
+            <div>
+        <nav >
           <a href="tel:01119113978"><img className="animate__animated animate__tada animate__slower animate__infinite" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="60px" height="60px"/></a>
     
           <a href="store"><img src={require('./imgs/shop.png')} title="متجرنا" alt="shop" width="60px" height="60px"/></a>
         </nav>
       </div>
-<div ><div className="container1"> 
-             <img className="logo " src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
+        <div className="grid-container ">
+        <div ><div > 
+             <img src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
         </div></div>
-		  <div > 
-        <div className="bg animate__animated animate__backInRight animate__delay-1s">
+		  <div className="item2"> 
+        <div className="bg animate__animated animate__backInLeft animate__delay-1s">
                <h2>خدمات صيانة الدش</h2>
                <div>
           <img src={require('./imgs/dish.jpg')} alt="service" width="300px" height="300px"/>
@@ -69,9 +70,9 @@ const Home = () =>{
 لقد وفرنا لكم أفضل الخدمات متواجدة في أكبر مركز تركيب الدش بالتجمع، في مجال تركيب الدش والريسيفر، ومتوفر لدينا أيضاً جميع مستلزمات تركيب الدش والريسيفر، وتركيب الشاشات. </span></p>
 <button onClick={myFunction} id="myBtn">Read more</button>
            </div></div>  
-		  <div >
+		  <div className="item3">
         
-        <div className="bg animate__animated animate__backInLeft animate__delay-2s">
+        <div className="bg animate__animated animate__bounceInUp animate__delay-2s">
                <h2>كاميرات المراقبة</h2>
                <div>
           <img src={require('./imgs/cam.jpg')} alt="service" width="300px" height="300px"/>
@@ -87,6 +88,11 @@ const Home = () =>{
            </div></div>
 		 
 		</div>
+
+          </div>
+      
+
+	
 	);
 }
 

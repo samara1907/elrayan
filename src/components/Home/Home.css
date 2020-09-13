@@ -1,16 +1,17 @@
-
+.grid-container {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 .grid-container > div {
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
 }
-#more {display: none;}
 
-.container1{
-  height: 40vh;
-  
-}
+
+
 
 img {
   
@@ -37,4 +38,7 @@ button{
 button:hover{
 
   animation: flip 1s;
+}
+nav{
+  float: left;
 }
