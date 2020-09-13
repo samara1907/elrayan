@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b356f7e1fdcf8d38bc36f5bf3f97a30e",
+    "revision": "20c9b351bdbfc0d4f0b23d02eb49c7b5",
     "url": "/elrayan/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elrayan/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "20d244c7a1903677e1fe",
-    "url": "/elrayan/static/css/main.15a9d3e7.chunk.css"
+    "revision": "d3141094202328f97edf",
+    "url": "/elrayan/static/css/main.7300dd8d.chunk.css"
   },
   {
     "revision": "8ba1a82b4cc0c3215c8f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elrayan/static/js/2.79cd8b2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20d244c7a1903677e1fe",
-    "url": "/elrayan/static/js/main.02be58e9.chunk.js"
+    "revision": "d3141094202328f97edf",
+    "url": "/elrayan/static/js/main.b8a9ddec.chunk.js"
   },
   {
     "revision": "f8ea26e11bd08fedfcc1",
