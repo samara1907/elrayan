@@ -93,7 +93,7 @@ const Home = () =>{
          <a href="https://www.facebook.com/"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="55px" height="55px" /></a>
          </div>
          <div className="social">
-         <a href="https://wa.me/11119113978"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
+         <a href="https://wa.me/201119113978"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
          </div>
          <div className="social">
          <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="55px" height="55px" /></a>
