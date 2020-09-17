@@ -86,8 +86,14 @@ a{
   float: left;
 }
 
+
   h1{
     font-family: 'SEGA LOGO FONT';
     font-weight: 100;
     color: black;
+  }
+
+  h1:hover{
+    color: white;
+
   }
