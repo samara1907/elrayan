@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47848d5f4bbcd3a26117f76459116150",
+    "revision": "a1c976e604657b2c7a58fda877426e23",
     "url": "/elrayan/index.html"
   },
   {
-    "revision": "bb589374f460a4a756bd",
+    "revision": "274aec3b1b0b027ab07d",
     "url": "/elrayan/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "413096f579b5ad14e148",
-    "url": "/elrayan/static/css/main.b32b64e3.chunk.css"
+    "revision": "076279da7ce38b751aa2",
+    "url": "/elrayan/static/css/main.bbeea5e3.chunk.css"
   },
   {
-    "revision": "bb589374f460a4a756bd",
-    "url": "/elrayan/static/js/2.629c146a.chunk.js"
+    "revision": "274aec3b1b0b027ab07d",
+    "url": "/elrayan/static/js/2.d09c2d52.chunk.js"
   },
   {
-    "revision": "0024b1d77ff6d1614254623ddf253708",
-    "url": "/elrayan/static/js/2.629c146a.chunk.js.LICENSE.txt"
+    "revision": "a73511fdd0e79fea52c5f42ad1574633",
+    "url": "/elrayan/static/js/2.d09c2d52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "413096f579b5ad14e148",
-    "url": "/elrayan/static/js/main.16074aec.chunk.js"
+    "revision": "076279da7ce38b751aa2",
+    "url": "/elrayan/static/js/main.180d3048.chunk.js"
   },
   {
     "revision": "f8ea26e11bd08fedfcc1",
     "url": "/elrayan/static/js/runtime-main.ca796e5e.js"
+  },
+  {
+    "revision": "12a3db8ba7f5423327bb12aed3c41977",
+    "url": "/elrayan/static/media/SEGA.12a3db8b.woff"
   },
   {
     "revision": "2fcce8315469a8670d87f3be6d3f99ac",
@@ -36,16 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elrayan/static/media/dish.6e4b49e3.jpg"
   },
   {
-    "revision": "a7a2160bee5d25df32b41c713fc16867",
-    "url": "/elrayan/static/media/img_147380.a7a2160b.png"
+    "revision": "319d45b4b1ea350bc5acfd154b582dd1",
+    "url": "/elrayan/static/media/img_147380.319d45b4.png"
   },
   {
     "revision": "cc8ca11106bdab96d2f66e8426f099d9",
     "url": "/elrayan/static/media/img_logo.cc8ca111.jpg"
-  },
-  {
-    "revision": "8b648c0fbe614f5838749650cf89b742",
-    "url": "/elrayan/static/media/shop.8b648c0f.png"
   },
   {
     "revision": "c228a51f52d262f60b78c320bb8fb782",
