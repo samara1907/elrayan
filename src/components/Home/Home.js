@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import 'animate.css';
+import {Button} from 'react-bootstrap';
 
 
 function myFunction() {
@@ -38,10 +39,26 @@ const Home = () =>{
 	return(
           <div>
             <div>
+            <div className="head">
+          <h1 >ALRAYAN COMPANY</h1>
+          </div>
         <nav >
-          <a href="tel:01119113978"><img className="animate__animated animate__tada animate__slower animate__infinite" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="60px" height="60px"/></a>
-    
-          <a href="store"><img src={require('./imgs/shop.png')} title="متجرنا" alt="shop" width="60px" height="60px"/></a>
+          <a href="tel:01119113978">
+        <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
+          <strong >
+                أتصل بنا
+          </strong>
+        <img className="" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="50px" height="50px"/>
+        </Button>
+        </a>
+        <a href="https://wa.me/201119113978">
+        <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
+          <strong >
+            ابعتلنا واتساب
+          </strong>
+        <img className="" src={require('./imgs/whatsapp.png')} title="أتصل بنا" alt="callus" width="55px" height="55px"/>
+        </Button>
+        </a>
         </nav>
       </div>
         <div className="grid-container ">

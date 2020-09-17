@@ -2,7 +2,6 @@ import React from 'react';
 import Home from './components/Home/Home';
 import './App.css';
 import Particles from 'react-particles-js';
-import { useReactPWAInstall } from "react-pwa-install";
 
 const ParticlesOptions = {
   particles: {
@@ -16,7 +15,6 @@ const ParticlesOptions = {
  
 
 function App() {
-  const { pwaInstall, supported, isInstalled } = useReactPWAInstall();
  
   return (
     <div className="App">

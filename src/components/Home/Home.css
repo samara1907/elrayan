@@ -25,7 +25,7 @@ img {
   color: white;
 }
 
-button{
+#myBtn , #myBtn1{
   color: black;
   border: 2px solid;
   padding: 10px 24px;
@@ -61,3 +61,33 @@ a{
   flex-wrap: nowrap;
   justify-content: center;
 }
+
+.secondary{
+  background-color: #F6853F; /* Green */
+  border-radius: 30px;
+  border: none;
+  color:black;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 3px 1px;
+  cursor: pointer;
+}
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+  }
+  
+.head{
+  float: left;
+}
+
+  h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 100;
+    color: black;
+  }
