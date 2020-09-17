@@ -43,7 +43,7 @@ const Home = () =>{
           <h1 >ALRAYAN COMPANY</h1>
           </div>
         <nav >
-          <a href="tel:01119113978">
+          <a href="tel:01127263344">
         <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
           <strong >
                 أتصل بنا
@@ -107,10 +107,10 @@ const Home = () =>{
 		 <div className="footer">
        <div className="container">
          <div className="social">
-         <a href="https://www.facebook.com/"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="55px" height="55px" /></a>
+         <a href="https://www.facebook.com/Alrayantelecom"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="55px" height="55px" /></a>
          </div>
          <div className="social">
-         <a href="https://wa.me/201119113978"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
+         <a href="https://wa.me/201127263344"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
          </div>
          <div className="social">
          <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="55px" height="55px" /></a>
