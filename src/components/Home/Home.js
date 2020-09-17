@@ -51,7 +51,7 @@ const Home = () =>{
         <img className="" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="25px" height="25px"/>
         </Button>
         </a>
-        <a href="https://wa.me/201119113978">
+        <a href="https://wa.me/201127263344">
         <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
           <strong >
             ابعتلنا واتساب
