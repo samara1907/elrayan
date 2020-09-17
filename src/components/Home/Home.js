@@ -48,7 +48,7 @@ const Home = () =>{
           <strong >
                 أتصل بنا
           </strong>
-        <img className="" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="50px" height="50px"/>
+        <img className="" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="25px" height="25px"/>
         </Button>
         </a>
         <a href="https://wa.me/201119113978">
@@ -56,7 +56,7 @@ const Home = () =>{
           <strong >
             ابعتلنا واتساب
           </strong>
-        <img className="" src={require('./imgs/whatsapp.png')} title="أتصل بنا" alt="callus" width="55px" height="55px"/>
+        <img className="" src={require('./imgs/whatsapp.png')} title="أتصل بنا" alt="callus" width="25px" height="25px"/>
         </Button>
         </a>
         </nav>
@@ -86,7 +86,7 @@ const Home = () =>{
 كما نقدر جميع طلبات العملاء باهتمام لتوفير الخدمات المطلوبة، بالإضافة لتركيب جميع أنواع الشاشات بأقصى سرعة، وبدقة ومهارة عالية، ونحن نملك خبرة عالية، حيث نقوم ببرمجة وضبط إشارة الدش بدقة وكفاءة عالية، لتكون الصورة واضحة وسليمة.
 
 لقد وفرنا لكم أفضل الخدمات متواجدة في أكبر مركز تركيب الدش بالتجمع، في مجال تركيب الدش والريسيفر، ومتوفر لدينا أيضاً جميع مستلزمات تركيب الدش والريسيفر، وتركيب الشاشات. </span></p>
-<button onClick={myFunction} id="myBtn">Read more</button>
+<button onClick={myFunction} id="myBtn">Read less</button>
            </div></div>  
 		  <div className="item3">
         
@@ -102,7 +102,7 @@ const Home = () =>{
 صيانة الكاميرات تشمل جميع انواع كاميرات المراقبة سواء الداخلية او الخارجية، وأجهزة الدي في ار، والوصلات والباور سابلاي، وبرمجة الدي في ار، وكل ما يتعلق بكفاءة عمل شبكة المراقبة، كما يتوفر لدينا صيانة كاميرات المراقبة السلكية واللاسلكية.
 
 </span></p>
-<button onClick={myFunction1} id="myBtn1">Read more</button>
+<button onClick={myFunction1} id="myBtn1">Read less</button>
            </div></div>
 		 <div className="footer">
        <div className="container">
