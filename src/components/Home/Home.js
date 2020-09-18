@@ -2,6 +2,8 @@ import React from 'react';
 import './Home.css';
 import 'animate.css';
 import {Button} from 'react-bootstrap';
+import Slider from '../Slider/Slider';
+import Slider2 from '../Slider/Slider2';
 
 
 function myFunction() {
@@ -39,12 +41,9 @@ const Home = () =>{
 	return(
           <div>
             <div>
-            <div className="head">
-          <h1 >ALRAYAN COMPANY</h1>
-          </div>
-        <nav >
+               
           <a href="tel:01127263344">
-        <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
+        <Button className="secondary ">
           <strong >
                 أتصل بنا
           </strong>
@@ -52,25 +51,25 @@ const Home = () =>{
         </Button>
         </a>
         <a href="https://wa.me/201127263344">
-        <Button className="secondary animate__animated animate__pulse animate__slower animate__infinite">
+        <Button className="first">
           <strong >
             ابعتلنا واتساب
           </strong>
         <img className="" src={require('./imgs/whatsapp.png')} title="أتصل بنا" alt="callus" width="25px" height="25px"/>
         </Button>
         </a>
-        </nav>
+  
       </div>
         <div className="grid-container ">
         <div ><div > 
-             <img src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
+             <img  className="logo" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
              <p className="des"> شركة الريان لصيانة الدش و تركيب و صيانة كاميرات المراقبة تقدم الشركة خدماتها منذ عام 2010 من مقرها الوحيد بمدينة الشروقز بالستعانة بافضل الفنين في مدال صيانة الاساتلايت </p>
         </div></div>
 		  <div className="item2"> 
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">
                <h2>خدمات صيانة الدش</h2>
                <div>
-          <img src={require('./imgs/dish.jpg')} alt="service" width="300px" height="300px"/>
+          <Slider/>
         </div>
                <p>
 تركيب صيانة دش والريسيفر في التجمع
@@ -92,9 +91,7 @@ const Home = () =>{
         
         <div className="bg animate__animated animate__bounceInUp animate__delay-2s">
                <h2>كاميرات المراقبة</h2>
-               <div>
-          <img src={require('./imgs/cam.jpg')} alt="service" width="300px" height="300px"/>
-        </div>
+               <Slider2/>
                <p>قمت بتركيب كاميرات مراقبة وتواجه مشاكل فيها، سواء من حيث وجود اعطال تمنعها من العمل تماما، أو مشكلة في دقة ووضوح الرؤية في الكاميرات، او مشاكل تخص التسجيل والاسترجاع، أو ترغب في زيادة عدد الكاميرات المركبة<span id="dots1">...</span><span id="more1"> او تغيير أي كاميرات موجودة بالفعل.
                
 نحن يعمل لدينا في اتقان فنيين صيانة كاميرات مراقبة على أعلى مستوى فني في مجال كاميرات المراقبة، كل ما عليك هو الاتصال للحصول على موعد زيارة فنية وسيقوم الفني بالكشف على الكاميرات واكتشاف الأعطال فيها واصلاحها فورا باستخدام احدث الأجهزة والمعدات.

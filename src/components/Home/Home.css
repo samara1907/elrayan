@@ -13,8 +13,7 @@
 
 
 
-img {
-  
+.logo{
   border-radius: 40%;
 }
 
@@ -35,10 +34,7 @@ img {
   transition-duration: 0.4s;
   
 }
-button:hover{
 
-  animation: flip 1s;
-}
 nav{
   padding: 10px;
   float: right;
@@ -63,36 +59,23 @@ a{
 }
 
 .secondary{
-  background-color: #F6853F; /* Green */
+  background-color: lightblue; /* Green */
   border-radius: 30px;
-  border: none;
-  color:black;
-  padding: 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 3px 1px;
-  cursor: pointer;
-}
-@font-face {
-  font-family: 'SEGA LOGO FONT';
-  font-style: normal;
-  font-weight: normal;
-  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-  }
-  
-.head{
   float: left;
+  margin: 3px 1px;
+  padding: 20px;
+  text-align: center;
+  font-size: 25px;
 }
 
+.first{
+  background-color: green;
+  border-radius: 30px;
+  float: right;
+  margin: 3px 1px;
+  padding: 20px;
+  text-align: center;
+  font-size: 25px;
 
-  h1{
-    font-family: 'SEGA LOGO FONT';
-    font-weight: 100;
-    color: black;
-  }
+}
 
-  h1:hover{
-    color: white;
-  }
