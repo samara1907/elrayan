@@ -59,7 +59,7 @@ a{
 }
 
 .secondary{
-  background-color: lightblue; /* Green */
+  background-color: #f6853f; /* Green */
   border-radius: 30px;
   float: left;
   margin: 3px 1px;
@@ -69,7 +69,7 @@ a{
 }
 
 .first{
-  background-color: green;
+  background-color: #f6853f;
   border-radius: 30px;
   float: right;
   margin: 3px 1px;
