@@ -62,7 +62,7 @@ const Home = () =>{
       </div>
         <div className="grid-container ">
         <div ><div > 
-          <h1><img src= {require('./imgs/dishicon.png')} alt="discrption pic" width="70px" height="70px" /> AL RAYAN CO.</h1>
+          <h1><img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/dishicon.png')} alt="discrption pic" width="70px" height="70px" /> AL RAYAN CO.</h1>
              <img  className="logo" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
              <p className="des">تعد شركة الريان لصيانة الدش و للانظمة الامنية من اكبر واقدم شركات تركيب الدش و كاميرات المراقبة والانتركم  كما قامت الشركة بالعديد من المشروعات الدش المركزى وجميع الانظمة الامنية منذ عام 2010 حتى الان بمدينة الشروق و مدن القاهرة الجديدة شركة الريان للدش و للأنظمة الأمنية أسم له تاريخ </p>
         </div></div>
