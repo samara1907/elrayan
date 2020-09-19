@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/elrayan/static/css/main.16378e04.chunk.css",
-    "main.js": "/elrayan/static/js/main.5f832388.chunk.js",
-    "main.js.map": "/elrayan/static/js/main.5f832388.chunk.js.map",
+    "main.css": "/elrayan/static/css/main.263f1bb8.chunk.css",
+    "main.js": "/elrayan/static/js/main.3045ea41.chunk.js",
+    "main.js.map": "/elrayan/static/js/main.3045ea41.chunk.js.map",
     "runtime-main.js": "/elrayan/static/js/runtime-main.ca796e5e.js",
     "runtime-main.js.map": "/elrayan/static/js/runtime-main.ca796e5e.js.map",
     "static/css/2.03cdebac.chunk.css": "/elrayan/static/css/2.03cdebac.chunk.css",
-    "static/js/2.8ecbe6b0.chunk.js": "/elrayan/static/js/2.8ecbe6b0.chunk.js",
-    "static/js/2.8ecbe6b0.chunk.js.map": "/elrayan/static/js/2.8ecbe6b0.chunk.js.map",
+    "static/js/2.59fdf608.chunk.js": "/elrayan/static/js/2.59fdf608.chunk.js",
+    "static/js/2.59fdf608.chunk.js.map": "/elrayan/static/js/2.59fdf608.chunk.js.map",
     "index.html": "/elrayan/index.html",
-    "precache-manifest.6a6531993a4cef43b9542bd3f4f70639.js": "/elrayan/precache-manifest.6a6531993a4cef43b9542bd3f4f70639.js",
+    "precache-manifest.1dcb8481fbc19b14744a6b3af0ea40ef.js": "/elrayan/precache-manifest.1dcb8481fbc19b14744a6b3af0ea40ef.js",
     "service-worker.js": "/elrayan/service-worker.js",
     "static/css/2.03cdebac.chunk.css.map": "/elrayan/static/css/2.03cdebac.chunk.css.map",
-    "static/css/main.16378e04.chunk.css.map": "/elrayan/static/css/main.16378e04.chunk.css.map",
-    "static/js/2.8ecbe6b0.chunk.js.LICENSE.txt": "/elrayan/static/js/2.8ecbe6b0.chunk.js.LICENSE.txt",
+    "static/css/main.263f1bb8.chunk.css.map": "/elrayan/static/css/main.263f1bb8.chunk.css.map",
+    "static/js/2.59fdf608.chunk.js.LICENSE.txt": "/elrayan/static/js/2.59fdf608.chunk.js.LICENSE.txt",
     "static/media/2.jpg": "/elrayan/static/media/2.e27a543b.jpg",
     "static/media/4.jpg": "/elrayan/static/media/4.68f17936.jpg",
     "static/media/5.PNG": "/elrayan/static/media/5.8ae52455.PNG",
+    "static/media/Home.css": "/elrayan/static/media/SEGA.12a3db8b.woff",
+    "static/media/dishicon.png": "/elrayan/static/media/dishicon.ccb23981.png",
     "static/media/img_147380.png": "/elrayan/static/media/img_147380.319d45b4.png",
     "static/media/img_logo.jpg": "/elrayan/static/media/img_logo.cc8ca111.jpg",
     "static/media/twitter.png": "/elrayan/static/media/twitter.c228a51f.png",
@@ -25,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.ca796e5e.js",
     "static/css/2.03cdebac.chunk.css",
-    "static/js/2.8ecbe6b0.chunk.js",
-    "static/css/main.16378e04.chunk.css",
-    "static/js/main.5f832388.chunk.js"
+    "static/js/2.59fdf608.chunk.js",
+    "static/css/main.263f1bb8.chunk.css",
+    "static/js/main.3045ea41.chunk.js"
   ]
 }
