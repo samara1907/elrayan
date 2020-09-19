@@ -45,9 +45,9 @@ const Home = () =>{
           <a href="tel:01127263344">
         <Button className="secondary ">
           <strong >
-                أتصل بنا
+                أتصل الأن
           </strong>
-        <img className="" src={require('./imgs/img_147380.png')} title="أتصل بنا" alt="callus" width="25px" height="25px"/>
+        <img className="" src={require('./imgs/img_147380.png')} title="أتصل الأن" alt="callus" width="25px" height="25px"/>
         </Button>
         </a>
         <a href="https://wa.me/201127263344">
@@ -62,8 +62,9 @@ const Home = () =>{
       </div>
         <div className="grid-container ">
         <div ><div > 
+          <h1><img src= {require('./imgs/dishicon.png')} alt="discrption pic" width="70px" height="70px" /> AL RAYAN CO.</h1>
              <img  className="logo" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
-             <p className="des"> شركة الريان لصيانة الدش و تركيب و صيانة كاميرات المراقبة تقدم الشركة خدماتها منذ عام 2010 من مقرها الوحيد بمدينة الشروقز بالستعانة بافضل الفنين في مدال صيانة الاساتلايت </p>
+             <p className="des">تعد شركة الريان لصيانة الدش و للانظمة الامنية من اكبر واقدم شركات تركيب الدش و كاميرات المراقبة والانتركم  كما قامت الشركة بالعديد من المشروعات الدش المركزى وجميع الانظمة الامنية منذ عام 2010 حتى الان بمدينة الشروق و مدن القاهرة الجديدة شركة الريان للدش و للأنظمة الأمنية أسم له تاريخ </p>
         </div></div>
 		  <div className="item2"> 
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">

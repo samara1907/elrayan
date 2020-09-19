@@ -45,7 +45,7 @@ a{
   color: aliceblue;
 }
 .des{
-  font-size: 15px;
+  font-size: 20px;
   font-weight: bold;
 }
 .social:hover{
@@ -63,9 +63,9 @@ a{
   border-radius: 30px;
   float: left;
   margin: 3px 1px;
-  padding: 20px;
+  padding: 8px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .first{
@@ -73,9 +73,21 @@ a{
   border-radius: 30px;
   float: right;
   margin: 3px 1px;
-  padding: 20px;
+  padding: 8px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 
 }
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+  }
+  
+  h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 150;
+    color: #0B0A11;
+  }
 
