@@ -8,6 +8,8 @@
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
+  border-bottom: solid 2px white;
+  padding-bottom: 10px;
 }
 
 
@@ -24,16 +26,7 @@
   color: white;
 }
 
-#myBtn , #myBtn1{
-  color: black;
-  border: 2px solid;
-  padding: 10px 24px;
-  border-radius: 35%;
-  font-size: 15px;
-  font-weight: bold;
-  transition-duration: 0.4s;
-  
-}
+
 
 nav{
   padding: 10px;
@@ -47,6 +40,7 @@ a{
 .des{
   font-size: 20px;
   font-weight: bold;
+
 }
 .social:hover{
   color:white;
@@ -56,38 +50,36 @@ a{
   display: flex;
   flex-wrap: nowrap;
   justify-content: center;
+  border-bottom: solid 2px white;
+  padding-bottom: 10px;
 }
 
 .secondary{
   background-color: #f6853f; /* Green */
-  border-radius: 30px;
+  border-radius: 40%;
   float: left;
   margin: 3px 1px;
-  padding: 8px;
+  padding: 6px;
   text-align: center;
   font-size: 20px;
 }
 
 .first{
   background-color: #f6853f;
-  border-radius: 30px;
+  border-radius: 40%;
   float: right;
   margin: 3px 1px;
-  padding: 8px;
+  padding: 6px;
   text-align: center;
   font-size: 20px;
 
 }
-@font-face {
-  font-family: 'SEGA LOGO FONT';
-  font-style: normal;
-  font-weight: normal;
-  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-  }
-  
+
+  @import url('https://fonts.googleapis.com/css?family=Ranchers');
   h1{
-    font-family: 'SEGA LOGO FONT';
+    border-bottom: solid 2px white;
+    font-family: 'Ranchers';
     font-weight: 150;
-    color: #0B0A11;
+    color: #110b0b;
   }
 
