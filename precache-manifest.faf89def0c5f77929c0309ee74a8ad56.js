@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cc0bfcea67668b8f49b49a1735be454",
+    "revision": "2209abb671bfbe9d7b2ef9ee7b7b833b",
     "url": "/elrayan/index.html"
   },
   {
-    "revision": "c403f87db889477a5662",
+    "revision": "47e418f99caa90e90400",
     "url": "/elrayan/static/css/2.03cdebac.chunk.css"
   },
   {
-    "revision": "75be79059a9dc19be4de",
-    "url": "/elrayan/static/css/main.263f1bb8.chunk.css"
+    "revision": "348a7288fd7ab1d4a475",
+    "url": "/elrayan/static/css/main.e4d99d28.chunk.css"
   },
   {
-    "revision": "c403f87db889477a5662",
-    "url": "/elrayan/static/js/2.04334309.chunk.js"
+    "revision": "47e418f99caa90e90400",
+    "url": "/elrayan/static/js/2.16886531.chunk.js"
   },
   {
-    "revision": "a73511fdd0e79fea52c5f42ad1574633",
-    "url": "/elrayan/static/js/2.04334309.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/elrayan/static/js/2.16886531.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75be79059a9dc19be4de",
-    "url": "/elrayan/static/js/main.8e99b981.chunk.js"
+    "revision": "348a7288fd7ab1d4a475",
+    "url": "/elrayan/static/js/main.8ebb3dd7.chunk.js"
   },
   {
     "revision": "f8ea26e11bd08fedfcc1",
@@ -38,14 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ae524559e18353d0d93a4c193c0da3a",
     "url": "/elrayan/static/media/5.8ae52455.PNG"
-  },
-  {
-    "revision": "12a3db8ba7f5423327bb12aed3c41977",
-    "url": "/elrayan/static/media/SEGA.12a3db8b.woff"
-  },
-  {
-    "revision": "ccb23981af076c72842d908aad66f660",
-    "url": "/elrayan/static/media/dishicon.ccb23981.png"
   },
   {
     "revision": "319d45b4b1ea350bc5acfd154b582dd1",
