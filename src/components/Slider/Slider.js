@@ -18,11 +18,12 @@ const Slider =()=>{
     media={[
      
       {
-        	source: require("./imgs/2.jpg"),
+        	source: require("./imgs/1.jpg"),
       },
       {
 			source: require("./imgs/2.jpg"),  
      },
+    
     ]}
     >
    </AutoplaySlider>

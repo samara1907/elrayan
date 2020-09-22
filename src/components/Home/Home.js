@@ -79,6 +79,9 @@ const Home = () =>{
          <div className="social">
          <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="55px" height="55px" /></a>
          </div>
+         <div className="social">
+         <a href="https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D9%87+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86+%D9%84%D9%84%D8%AF%D8%B4%E2%80%AD/@30.1664433,31.6472799,15z/data=!4m5!3m4!1s0x0:0x3c6cafdef4f3dcc8!8m2!3d30.1664433!4d31.6472799"><img src={require('./imgs/pin.png')} alt="address" title="VISIT-US" width="55px" height="55px" /></a>
+         </div>
 
        </div>
        <h6>Developed by <a href="https://www.facebook.com/profile.php?id=100028847222002">Mahmoud Osman</a></h6>
