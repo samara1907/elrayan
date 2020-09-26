@@ -2,8 +2,6 @@ import React from 'react';
 import './Home.css';
 import 'animate.css';
 import {Button} from 'react-bootstrap';
-import Slider from '../Slider/Slider';
-import Slider2 from '../Slider/Slider2';
 
 
 
@@ -33,7 +31,7 @@ const Home = () =>{
       </div>
         <div className="grid-container ">
         <div ><div > 
-          <h1><img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/camm.png')} alt="discrption pic" width="60px" height="60px" /> RAYAN </h1>
+          <h1><img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/camm.png')} alt="discrption pic" width="40px" height="40px" /> RAYAN <img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/dishicon.png')} alt="discrption pic" width="40px" height="40px" /></h1>
              <img  className="logo" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
              <p className="des">تعد شركة الريان لصيانة الدش و للانظمة الامنية من اكبر واقدم شركات تركيب الدش و كاميرات المراقبة والانتركم  كما قامت الشركة بالعديد من المشروعات الدش المركزى وجميع الانظمة الامنية منذ عام 2010 حتى الان بمدينة الشروق و مدن القاهرة الجديدة شركة الريان للدش و للأنظمة الأمنية أسم له تاريخ </p>
         </div></div>
@@ -41,7 +39,7 @@ const Home = () =>{
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">
                <h2>خدمات صيانة الدش</h2>
                <div>
-          <Slider/>
+          <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" />
         </div>
                <p>
 تركيب صيانة دش والريسيفر في التجمع
@@ -59,7 +57,7 @@ const Home = () =>{
         
         <div className="bg animate__animated animate__bounceInUp animate__delay-2s">
                <h2>كاميرات المراقبة</h2>
-               <Slider2/>
+               <img src={require('./imgs/security-company-employee-sets-up-security-camera_107173-9209.jpg')} alt="camms" width="550px" height="431px" />
                <p>قمت بتركيب كاميرات مراقبة وتواجه مشاكل فيها، سواء من حيث وجود اعطال تمنعها من العمل تماما، أو مشكلة في دقة ووضوح الرؤية في الكاميرات، او مشاكل تخص التسجيل والاسترجاع، أو ترغب في زيادة عدد الكاميرات المركبة او تغيير أي كاميرات موجودة بالفعل.
                
 نحن يعمل لدينا في اتقان فنيين صيانة كاميرات مراقبة على أعلى مستوى فني في مجال كاميرات المراقبة، كل ما عليك هو الاتصال للحصول على موعد زيارة فنية وسيقوم الفني بالكشف على الكاميرات واكتشاف الأعطال فيها واصلاحها فورا باستخدام احدث الأجهزة والمعدات.

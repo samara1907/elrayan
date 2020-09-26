@@ -21,7 +21,7 @@ const Slider =()=>{
         	source: require("./imgs/1.jpg"),
       },
       {
-			source: require("./imgs/2.jpg"),  
+			source: require("./imgs/satellite-dish-installation-vector-23306414.jpg"),  
      },
     
     ]}
