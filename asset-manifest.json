@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elrayan/static/css/main.3a2328a8.chunk.css",
-    "main.js": "/elrayan/static/js/main.bfb29cd3.chunk.js",
-    "main.js.map": "/elrayan/static/js/main.bfb29cd3.chunk.js.map",
+    "main.js": "/elrayan/static/js/main.8fc2970a.chunk.js",
+    "main.js.map": "/elrayan/static/js/main.8fc2970a.chunk.js.map",
     "runtime-main.js": "/elrayan/static/js/runtime-main.ca796e5e.js",
     "runtime-main.js.map": "/elrayan/static/js/runtime-main.ca796e5e.js.map",
     "static/css/2.2ce0d9b2.chunk.css": "/elrayan/static/css/2.2ce0d9b2.chunk.css",
     "static/js/2.949bdf27.chunk.js": "/elrayan/static/js/2.949bdf27.chunk.js",
     "static/js/2.949bdf27.chunk.js.map": "/elrayan/static/js/2.949bdf27.chunk.js.map",
     "index.html": "/elrayan/index.html",
-    "precache-manifest.d88b6eed9f9482846e9209487615c78a.js": "/elrayan/precache-manifest.d88b6eed9f9482846e9209487615c78a.js",
+    "precache-manifest.a0cbdf70a3d9dd26964eb335c01f2a37.js": "/elrayan/precache-manifest.a0cbdf70a3d9dd26964eb335c01f2a37.js",
     "service-worker.js": "/elrayan/service-worker.js",
     "static/css/2.2ce0d9b2.chunk.css.map": "/elrayan/static/css/2.2ce0d9b2.chunk.css.map",
     "static/css/main.3a2328a8.chunk.css.map": "/elrayan/static/css/main.3a2328a8.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.2ce0d9b2.chunk.css",
     "static/js/2.949bdf27.chunk.js",
     "static/css/main.3a2328a8.chunk.css",
-    "static/js/main.bfb29cd3.chunk.js"
+    "static/js/main.8fc2970a.chunk.js"
   ]
 }
