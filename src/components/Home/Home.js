@@ -39,7 +39,7 @@ const Home = () =>{
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">
                <h2>خدمات صيانة الدش</h2>
                <div>
-          <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" />
+          <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" width="550px" height="431px"/>
         </div>
                <p>
 تركيب صيانة دش والريسيفر في التجمع
