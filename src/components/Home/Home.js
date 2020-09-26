@@ -39,7 +39,7 @@ const Home = () =>{
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">
                <h2>خدمات صيانة الدش</h2>
                <div>
-          <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" width="550px" height="431px"/>
+          <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" width="300px" height="300px"/>
         </div>
                <p>
 تركيب صيانة دش والريسيفر في التجمع
@@ -57,7 +57,7 @@ const Home = () =>{
         
         <div className="bg animate__animated animate__bounceInUp animate__delay-2s">
                <h2>كاميرات المراقبة</h2>
-               <img src={require('./imgs/security-company-employee-sets-up-security-camera_107173-9209.jpg')} alt="camms" width="550px" height="431px" />
+               <img src={require('./imgs/security-company-employee-sets-up-security-camera_107173-9209.jpg')} alt="camms" width="300px" height="300px" />
                <p>قمت بتركيب كاميرات مراقبة وتواجه مشاكل فيها، سواء من حيث وجود اعطال تمنعها من العمل تماما، أو مشكلة في دقة ووضوح الرؤية في الكاميرات، او مشاكل تخص التسجيل والاسترجاع، أو ترغب في زيادة عدد الكاميرات المركبة او تغيير أي كاميرات موجودة بالفعل.
                
 نحن يعمل لدينا في اتقان فنيين صيانة كاميرات مراقبة على أعلى مستوى فني في مجال كاميرات المراقبة، كل ما عليك هو الاتصال للحصول على موعد زيارة فنية وسيقوم الفني بالكشف على الكاميرات واكتشاف الأعطال فيها واصلاحها فورا باستخدام احدث الأجهزة والمعدات.
