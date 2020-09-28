@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elrayan/precache-manifest.d99f0f4d1fb7f55a70d8188c0439a3e8.js"
+  "/elrayan/precache-manifest.bece20c1885455a9090399be1f9c6512.js"
 );
 
 self.addEventListener('message', (event) => {
