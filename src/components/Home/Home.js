@@ -64,7 +64,7 @@ const Home = () =>{
          <a href="https://www.facebook.com/Alrayantelecom"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="50px" height="50px" /></a>
          </div>
          <div className="social">
-         <a href="https://www.instagram.com/"><img src={require('./imgs/instagram-logo.png')} alt="instagram" title="FOLLOW-US" width="50px" height="50px" /></a>
+         <a href="https://www.instagram.com/alrayan_communications/"><img src={require('./imgs/instagram-logo.png')} alt="instagram" title="FOLLOW-US" width="50px" height="50px" /></a>
          </div>
          <div className="social">
          <a href="https://wa.me/201127263344"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="50px" height="50px" /></a>
