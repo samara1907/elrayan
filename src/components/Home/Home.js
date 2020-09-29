@@ -41,12 +41,13 @@ const Home = () =>{
                <div>
           <img src={require('./imgs/Satellite-Installation-Technician-Worker_art.png')} alt="dish" width="300px" height="300px"/>
         </div>
-               <p>نقدم الخدمات والحلول التي تتضمن مجموعة كاملة من أعمال وخدمات وصيانة وتركيب الأجهزة وأطباق الستالايت والشبكات
-                <br/>
-تركيب الدش وصيانة الدش والرسيفر من خلال أفضل فنيين متخصصين فى مجال الدش وضبط جميع القنوات على الرسيفر وبجانب إمكانية التركيب للدش والرسيفر نوفر تركيب الشاشة ويمكن توفير المستلزمات حسب الطلب
-<br/>
-توفير جميع مستلزمات الدش والرسيفر من طبق دش – رسيفر – حامل شاشة – سلك  وأى مستلزمات مطلوبة نقوم بتوفيرها.
-تركيب الدش يتم بطريقة حديثة ومرنة وتوجيه طبق الدش مع جهاز ضبط الإشارة وتشغيل جميع الأقمار وضبط القنوات بدقة عالية والتوصيلات بطريقة عالية ومظهر جميل فى غرفتك وبسرعة فى الأداء. </p>
+               <p>تقدم الشركة جميع خدمات الدش الثابت و المتحرك
+                 <br/>
+                   التي تضمن مجموعة كاملة من أعمال و خدمات تركيب و صيانة الدش الثابت و المركزي و المتحرك و تأسيس الشبكات الداخلية و صيانة جميع انواع الريسيفرات من خلال مجموعة من افضل الفينين المتخصصين في مجال تركيب و صيانة الدش
+                   <br/>
+                    كما تتوفر لدينا جميع انواع قطع الغيار (أطباق دش - ريسيفرات - حوامل شاشات - أسلاك - لاقط إشارة). كما توفر الشركة جميع المستلزمات و الأكسسوارات الإضافية عند الطلب. و تقدم شركة الريان ضمان لمدة عام علي جميع قطع الغيار
+                    <br/>
+                      و تتشرف الريان بتقديم خدمة سريعة و متقنة. حيث نقوم بتنسيق المواعيد المناسبة لأوقاتكم عند طلب الفني. تقوم الريان بتنسيق الميعاد معكم. كما يقوم الفني بالتواصل معكم لتأكيد الميعاد </p>
            </div></div>  
 		  <div className="item3">
         
@@ -55,24 +56,28 @@ const Home = () =>{
                <img src={require('./imgs/security-company-employee-sets-up-security-camera_107173-9209.jpg')} alt="camms" width="300px" height="300px" />
                <p>يعمل لدي شركة الريان فنيين تركيب و صيانة كاميرات مراقبة على أعلى مستوى فني في مجال كاميرات المراقبة، كل ما عليك هو الاتصال للحصول على موعد زيارة فنية وسيقوم الفني بالكشف على الكاميرات واكتشاف الأعطال فيها واصلاحها فورا باستخدام احدث الأجهزة والمعدات
 <br/>
-صيانة الكاميرات تشمل جميع انواع كاميرات المراقبة سواء الداخلية او الخارجية، وأجهزة الدي في ار، والوصلات والباور سابلاي، وبرمجة الدي في ار، وكل ما يتعلق بكفاءة عمل شبكة المراقبة، كما يتوفر لدينا صيانة كاميرات المراقبة السلكية واللاسلكية
+كما توفر الشركة جميع انواع كاميرات المراقبة السلكية و اللاسلكية، وأجهزة الدي ڤي أر، الإن ڤي أر؛ والوصلات والباور سابلاي، وبرمجة الدي في ار، وكل ما يتعلق بكفاءة عمل شبكة المراقبة. و نتشرف دائما بخدمتكم. 
 
 </p>
            </div></div>
 		 <div className="footer">
        <div className="container">
          <div className="social">
-         <a href="https://www.facebook.com/Alrayantelecom"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="55px" height="55px" /></a>
+         <a href="https://www.facebook.com/Alrayantelecom"><img src={require('./imgs/facebook.png')} alt="facebook" title="FOLLOW US" width="50px" height="50px" /></a>
          </div>
          <div className="social">
-         <a href="https://wa.me/201127263344"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="55px" height="55px" /></a>
+         <a href="https://www.instagram.com/"><img src={require('./imgs/instagram-logo.png')} alt="instagram" title="FOLLOW-US" width="50px" height="50px" /></a>
          </div>
          <div className="social">
-         <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="55px" height="55px" /></a>
+         <a href="https://wa.me/201127263344"><img src={require('./imgs/whatsapp.png')} alt="whatsapp" title="CONTACT US" width="50px" height="50px" /></a>
          </div>
          <div className="social">
-         <a href="https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D9%87+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86+%D9%84%D9%84%D8%AF%D8%B4%E2%80%AD/@30.1664433,31.6472799,15z/data=!4m5!3m4!1s0x0:0x3c6cafdef4f3dcc8!8m2!3d30.1664433!4d31.6472799"><img src={require('./imgs/pin.png')} alt="address" title="VISIT-US" width="55px" height="55px" /></a>
+         <a href="https://twitter.com/"><img src={require('./imgs/twitter.png')} alt="twitter" title="FOLLOW US" width="50px" height="50px" /></a>
          </div>
+         <div className="social">
+         <a href="https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D9%87+%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%86+%D9%84%D9%84%D8%AF%D8%B4%E2%80%AD/@30.1664433,31.6472799,15z/data=!4m5!3m4!1s0x0:0x3c6cafdef4f3dcc8!8m2!3d30.1664433!4d31.6472799"><img src={require('./imgs/pin.png')} alt="address" title="VISIT-US" width="50px" height="50px" /></a>
+         </div>
+         
 
        </div>
        <h6>Developed by <a className="mahmoud" href="https://www.facebook.com/profile.php?id=100028847222002">Mahmoud Osman</a></h6>
