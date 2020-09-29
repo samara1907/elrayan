@@ -33,7 +33,7 @@ const Home = () =>{
         <div ><div > 
           <h1><img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/camm.png')} alt="discrption pic" width="40px" height="40px" /> RAYAN <img className="animate__animated animate__flip animate__slower animate__infinite" src= {require('./imgs/dishicon.png')} alt="discrption pic" width="40px" height="40px" /></h1>
              <img  className="logo" src={require('./imgs/img_logo.jpg')} alt="logo" width="200px" height="200px"/>
-             <p className="des">تعد شركة الريان لأنظمة الدش و كاميرات المراقبة من اكبر واقدم شركات تركيب الدش و كاميرات المراقبة  كما قامت الشركة بالعديد من مشروعات الدش المركزى منذ عام 2010 حتى الان بمدينة الشروق و مدن القاهرة الجديدة شركة الريان للدش و كاميرات المراقبة أسم له تاريخ </p>
+             <p className="des">تعد شركة الريان لأنظمة الدش و كاميرات المراقبة من اكبر واقدم شركات تركيب الدش و كاميرات المراقبة  كما قامت الشركة بالعديد من مشروعات الدش و كاميرات المراقبة منذ عام 2010 حتى الان بمدينة الشروق و مدن القاهرة الجديدة شركة الريان للدش و كاميرات المراقبة أسم له تاريخ </p>
         </div></div>
 		  <div className="item2"> 
         <div className="bg animate__animated animate__backInLeft animate__delay-1s">

@@ -83,8 +83,9 @@ h1{
     color: goldenrod;
     font-size: 3.5rem;
   }
-  p{
-  font-family: 'Amiri', serif;
+  @import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Scheherazade&display=swap');
+    p{
+  font-family: 'Scheherazade', serif;
   font-weight: bold;
   color: #000000;
 }
