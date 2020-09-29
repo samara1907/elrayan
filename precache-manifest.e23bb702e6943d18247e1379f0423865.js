@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c7831670805b12197ec3e9c370791ab",
+    "revision": "9fdafe8d9c759792159084d2c6e9d3da",
     "url": "/elrayan/index.html"
   },
   {
-    "revision": "354cdb6724350544ac6e",
+    "revision": "1cacb90baf06b642a61f",
     "url": "/elrayan/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "5d1c05e3fc53696feab6",
+    "revision": "857cd7e26812ddd754df",
     "url": "/elrayan/static/css/main.52cc72ec.chunk.css"
   },
   {
-    "revision": "354cdb6724350544ac6e",
-    "url": "/elrayan/static/js/2.949bdf27.chunk.js"
+    "revision": "1cacb90baf06b642a61f",
+    "url": "/elrayan/static/js/2.62b7693f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/elrayan/static/js/2.949bdf27.chunk.js.LICENSE.txt"
+    "url": "/elrayan/static/js/2.62b7693f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d1c05e3fc53696feab6",
-    "url": "/elrayan/static/js/main.1f31b4c0.chunk.js"
+    "revision": "857cd7e26812ddd754df",
+    "url": "/elrayan/static/js/main.1b277429.chunk.js"
   },
   {
     "revision": "f8ea26e11bd08fedfcc1",
