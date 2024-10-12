@@ -78,7 +78,7 @@ const Home = () =>{
          
 
        </div>
-       <h6>Developed by <a className="mahmoud" href="https://www.facebook.com/profile.php?id=100028847222002">Mahmoud Osman</a></h6>
+      
      </div>
 		</div>
 
